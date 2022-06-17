@@ -1,4 +1,4 @@
-APP : https://fendermany.github.io/marvel-app/
+DEMO : https://fendermany.github.io/marvel-app/
 
 
 
